@@ -20,6 +20,7 @@ Important Features
 •	Output: Digital binary (D0–D7)
 The digital output is proportional to the input analog voltage.
 ## Circuit Diagram
+
 Design the circuit in Proteus using ADC0804 with:
 •	Analog input from potentiometer
 •	Clock using resistor and capacitor
